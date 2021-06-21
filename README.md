@@ -1,3 +1,5 @@
+In this task we created face detection model using Face detection LBPH and send mail whatsapp message . When it detects tom cruice face it launches aws ec2 instance and create 10 gb volume using aws using python and attach to the created instance . 
+
 task 6.1 
 -----------------------------------------------------
 📌 When it recognize your face then - 
